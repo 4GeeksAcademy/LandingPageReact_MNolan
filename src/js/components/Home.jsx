@@ -12,7 +12,7 @@ const Home = () => {
 			<header className="sticky-top">
 				<Navbar />
 			</header>
-			<div className="container m-2 justify-content-center">
+			<div className="container-fluid px-5 justify-content-center pt-2">
 				<div className="row">
 					<Jumbotron />
 				</div>
